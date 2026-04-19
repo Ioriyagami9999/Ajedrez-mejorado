@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Ajedrez Maestro",
+  "description": "Un juego de ajedrez completo con validación de movimientos reales, historial y detección de estados de juego.",
+  "requestFramePermissions": []
+}
